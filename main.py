@@ -12,7 +12,7 @@ def print_hi(name):
     for number in numbers:
         print(number)
         sum += number
-    print(sum)
+    print(f'The sum is {sum}')
 
 
 # Press the green button in the gutter to run the script.
